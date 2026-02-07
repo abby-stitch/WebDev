@@ -29,4 +29,4 @@
 - font family
 - text align
 ### CSS inspection
-- cms+opt+i
+- cmd+opt+i
