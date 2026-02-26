@@ -26,3 +26,16 @@
 !16-CSS-colors.html
 !17-CSS-Font-Properties/
 !17-CSS-Font-Properties/**/*
+
+!18-CSs-Box-Model.html
+!19-Motivational-post-website
+!19-Motivational-post-website/**/*
+!20-CSS-Cascade
+!20-CSS-Cascade/**/*
+!21-Combining-CSS-Selectors
+!21-Combining-CSS-Selectors/**/*
+
+# 排除所有层级的.DS_Store（覆盖白名单，强制排除）
+**/.DS_Store
+.DS_Store?
+._*
